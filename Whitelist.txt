@@ -1,1 +1,0 @@
-{User = "GrenadeOfTacos125", Discord = "964696043897905222", Whitelist = "ULTIMATE"}
