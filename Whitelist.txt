@@ -1,0 +1,1 @@
+{User = "Unknown", Discord = "1246471078486737037", Whitelist = "Premium", Key = "Lua_Premium_X2Z6Y_8V3W7"}
