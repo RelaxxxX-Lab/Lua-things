@@ -8,7 +8,6 @@ Lua_Standard_A7F3B_9K2L4
 Lua_Standard_V6L1D_9J3Q4
 Lua_Ultimate_Z5H2M_8V1D3
 Lua_Ultimate_M6T5B_9Q1Y7
-Lua_Premium_B2L9T_4X3C7
 Lua_Ultimate_R9K2L_3P5Q7
 Lua_Premium_N3M5Y_2K8Z9
 Lua_Standard_S2T4U_6V8W0
