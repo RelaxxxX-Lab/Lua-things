@@ -1,1 +1,0 @@
-{User = "GrenadeOfTacos125", Discord = "964696043897905222", Whitelist = "Ultimate", Key = "Lua_Ultimate_M1N4B_6V9X2"}
