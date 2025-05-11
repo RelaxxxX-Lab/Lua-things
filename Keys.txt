@@ -5,7 +5,6 @@ Lua_Premium_V1L6C_7M9P5
 Lua_Premium_D4Z1X_7M9P2
 Lua_Premium_W4X5Y_6Z7A8
 Lua_Standard_A7F3B_9K2L4
-Lua_Ultimate_A9R4X_7V6M2
 Lua_Standard_B9H3Z_5L7Y2
 Lua_Premium_X3V2M_2J4K9
 Lua_Standard_V6L1D_9J3Q4
