@@ -1,2 +1,2 @@
 {User = "jakuza622_2", Discord = "748474956131729449", Whitelist = "ULTIMATE"}
-{User = "heatrelax", Discord = "1246471078486737037", Whitelist = "PREMIUM"}
+{User = "HeatRelax", Discord = "1246471078486737037", Whitelist = "PREMIUM"}
