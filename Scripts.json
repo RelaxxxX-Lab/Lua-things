@@ -1,1 +1,6 @@
-[]
+[
+    {
+        "Name": "Sensation Hub Safe",
+        "Script": "require(85380043749737)('Username')"
+    }
+]
