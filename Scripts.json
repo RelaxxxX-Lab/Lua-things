@@ -34,5 +34,9 @@
     {
         "Name": "The third dimension (Premium+)",
         "Script": "require(9254836590)('Username')"
+    },
+    {
+        "Name": "Undertale Determination",
+        "Script": "require(7409193749).load('Username')"
     }
 ]
