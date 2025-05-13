@@ -38,5 +38,9 @@
     {
         "Name": "Undertale Determination",
         "Script": "require(7409193749).load('Username')"
+    },
+    {
+        "Name": "Doge army",
+        "Script": "require(5115249013).fehack('Username')"
     }
 ]
