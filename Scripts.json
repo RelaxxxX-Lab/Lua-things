@@ -26,5 +26,9 @@
     {
         "Name": "Jester",
         "Script": "require(6042859321).load('Username')"
+    },
+    {
+        "Name": "Emoji god (Premium+)",
+        "Script": "require(5823684505).load('Username')"
     }
 ]
