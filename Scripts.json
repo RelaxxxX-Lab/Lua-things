@@ -6,5 +6,9 @@
     {
         "Name": "Mr. Bye Bye",
         "Script": "require(0xB4AF21B4):Start('Username', 'AAA')"
+    },
+    {
+        "Name": "Reality Orb",
+        "Script": "require(4780399515).load('Username')"
     }
 ]
