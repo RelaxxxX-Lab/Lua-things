@@ -22,5 +22,9 @@
     {
         "Name": "Sledge Hammer (Premium+)",
         "Script": "require(8038037940).CLoad('Username')"
+    },
+    {
+        "Name": "Jester",
+        "Script": "require(6042859321).load('Username')"
     }
 ]
