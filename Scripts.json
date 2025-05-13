@@ -1,9 +1,5 @@
 [
     {
-        "Name": "Mr. Bye Bye",
-        "Script": "require(0xB4AF21B4):Start(\"Username\", \"AAA\")"
-    },
-    {
         "Name": "Sensation Hub Safe",
         "Script": "require(85380043749737)(\"Username\")"
     }
