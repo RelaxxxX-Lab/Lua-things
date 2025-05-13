@@ -10,5 +10,9 @@
     {
         "Name": "Reality Orb",
         "Script": "require(4780399515).load('Username')"
+    },
+    {
+        "Name": "Server Admin",
+        "Script": "require(4665394711).load('Username')"
     }
 ]
