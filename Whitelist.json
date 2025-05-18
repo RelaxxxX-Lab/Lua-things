@@ -169,5 +169,13 @@
         "Whitelist": "Premium",
         "Avatar": "https://thumbnails.roblox.com/v1/users/avatar-headshot?userIds=8470748265&size=420x420&format=Png&isCircular=false",
         "Key": ""
+    },
+    {
+        "User": "Robloxismetotally",
+        "RobloxID": "2646320481",
+        "Discord": "878698883910352937",
+        "Whitelist": "Standard",
+        "Avatar": "https://thumbnails.roblox.com/v1/users/avatar-headshot?userIds=2646320481&size=420x420&format=Png&isCircular=false",
+        "Key": ""
     }
 ]
