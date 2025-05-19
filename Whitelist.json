@@ -215,5 +215,13 @@
         "Whitelist": "Standard",
         "Avatar": "https://thumbnails.roblox.com/v1/users/avatar-headshot?userIds=3126174021&size=420x420&format=Png&isCircular=false",
         "Key": ""
+    },
+    {
+        "User": "BaconRules3004",
+        "RobloxID": "3562151912",
+        "Discord": "802502795055988756",
+        "Whitelist": "Premium",
+        "Avatar": "https://thumbnails.roblox.com/v1/users/avatar-headshot?userIds=3562151912&size=420x420&format=Png&isCircular=false",
+        "Key": ""
     }
 ]
