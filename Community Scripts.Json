@@ -1,8 +1,7 @@
 [
     {
-        "Name": "Sensation Hub Safe (Premium+)",
-        "Script": "require(85380043749737)('Username')",
-        "UploadedBy": "heatrelax",
-        "Thumbnail": "",
+        "Name": "Example",
+        "Script": "require(Example_ID)('Username')",
+        "UploadedBy": "heatrelax"
     }
 ]
