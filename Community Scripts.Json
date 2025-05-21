@@ -1,7 +1,0 @@
-[
-    {
-        "Name": "Example",
-        "Script": "require(Example_ID)('Username')",
-        "UploadedBy": "heatrelax"
-    }
-]
