@@ -307,5 +307,13 @@
         "Whitelist": "Standard",
         "Avatar": "https://thumbnails.roblox.com/v1/users/avatar-headshot?userIds=7174184396&size=420x420&format=Png&isCircular=false",
         "Key": ""
+    },
+    {
+        "User": "BOXINGLEAGUECHAMP90",
+        "RobloxID": "8519501704",
+        "Discord": "1256160273417502810",
+        "Whitelist": "Staff",
+        "Avatar": "https://thumbnails.roblox.com/v1/users/avatar-headshot?userIds=8519501704&size=420x420&format=Png&isCircular=false",
+        "Key": ""
     }
 ]
