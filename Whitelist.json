@@ -337,5 +337,13 @@
         "Whitelist": "Premium",
         "Avatar": "https://thumbnails.roblox.com/v1/users/avatar-headshot?userIds=3881807990&size=420x420&format=Png&isCircular=false",
         "Key": "Lua_Premium_H8FSJ_HKLOO"
+    },
+    {
+        "User": "0_0Pilver",
+        "RobloxID": "1228814467",
+        "Discord": "1254565704204554334",
+        "Whitelist": "Standard",
+        "Avatar": "https://thumbnails.roblox.com/v1/users/avatar-headshot?userIds=1228814467&size=420x420&format=Png&isCircular=false",
+        "Key": ""
     }
 ]
