@@ -345,5 +345,13 @@
         "Whitelist": "Standard",
         "Avatar": "https://thumbnails.roblox.com/v1/users/avatar-headshot?userIds=8541717479&size=420x420&format=Png&isCircular=false",
         "Key": ""
+    },
+    {
+        "User": "jax253mach",
+        "RobloxID": "432333998",
+        "Discord": "1277077025169084506",
+        "Whitelist": "Ultimate",
+        "Avatar": "https://thumbnails.roblox.com/v1/users/avatar-headshot?userIds=432333998&size=420x420&format=Png&isCircular=false",
+        "Key": ""
     }
 ]
