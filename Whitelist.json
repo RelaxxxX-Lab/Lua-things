@@ -1,10 +1,5 @@
 [
     {
-        "User": "idk",
-        "Discord": "748474956131729449",
-        "Whitelist": "Ultimate"
-    },
-    {
         "User": "meththug2",
         "Discord": "1207688714818429069",
         "Whitelist": "Premium",
@@ -337,14 +332,6 @@
         "Whitelist": "Premium",
         "Avatar": "https://thumbnails.roblox.com/v1/users/avatar-headshot?userIds=3881807990&size=420x420&format=Png&isCircular=false",
         "Key": "Lua_Premium_H8FSJ_HKLOO"
-    },
-    {
-        "User": "Notcrixps08",
-        "RobloxID": "8541717479",
-        "Discord": "1254565704204554334",
-        "Whitelist": "Standard",
-        "Avatar": "https://thumbnails.roblox.com/v1/users/avatar-headshot?userIds=8541717479&size=420x420&format=Png&isCircular=false",
-        "Key": ""
     },
     {
         "User": "jax253mach",
