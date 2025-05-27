@@ -353,5 +353,13 @@
         "Whitelist": "Ultimate",
         "Avatar": "https://thumbnails.roblox.com/v1/users/avatar-headshot?userIds=432333998&size=420x420&format=Png&isCircular=false",
         "Key": ""
+    },
+    {
+        "User": "ba1231235",
+        "RobloxID": "7143753995",
+        "Discord": "1229759373694337046",
+        "Whitelist": "Standard",
+        "Avatar": "https://thumbnails.roblox.com/v1/users/avatar-headshot?userIds=7143753995&size=420x420&format=Png&isCircular=false",
+        "Key": ""
     }
 ]
